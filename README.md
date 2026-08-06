@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/11vaijanti/LeetcodeSolutions/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/11vaijanti/LeetcodeSolutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/11vaijanti/LeetcodeSolutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/11vaijanti/LeetcodeSolutions/tree/master/0088-merge-sorted-array) |
@@ -34,4 +35,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/11vaijanti/LeetcodeSolutions/tree/master/0189-rotate-array) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/11vaijanti/LeetcodeSolutions/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
