@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/11vaijanti/LeetcodeSolutions/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/11vaijanti/LeetcodeSolutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/11vaijanti/LeetcodeSolutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0066-plus-one](https://github.com/11vaijanti/LeetcodeSolutions/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/11vaijanti/LeetcodeSolutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -41,4 +42,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/11vaijanti/LeetcodeSolutions/tree/master/0001-two-sum) |
+## Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/11vaijanti/LeetcodeSolutions/tree/master/0004-median-of-two-sorted-arrays) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/11vaijanti/LeetcodeSolutions/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
